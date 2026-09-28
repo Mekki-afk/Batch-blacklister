@@ -1,0 +1,12 @@
+# Local environment settings (contains real links/names)
+.env
+*.env
+
+# Excel files containing real client data
+*.xlsx
+*.xls
+*.csv
+
+# Python temp files
+__pycache__/
+.venv/
